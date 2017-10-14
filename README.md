@@ -1,5 +1,5 @@
 # hello-world
-Just Hello World
+JuST Hello World
 First edit!
 First push!
 Test new user!
